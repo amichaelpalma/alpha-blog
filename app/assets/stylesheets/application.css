@@ -1,3 +1,33 @@
+header {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.right-column-line { 
+	border-right: 1px gray solid; 
+}
+
+.top-row-line {
+	border-top: 1px gray solid;
+	margin-top: 12px;
+	padding-top: 16px;
+}
+
+.disclaimer {
+	font-size: x-small;
+}
+
+nav {
+	text-align: right;
+}
+
+
+
+
+
+
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
