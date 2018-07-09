@@ -1,8 +1,6 @@
 header {
 	margin-top: 30px;
 	text-align: center;
-}
-
 .right-column-line { 
 	border-right: 1px gray solid; 
 }
@@ -20,7 +18,6 @@ header {
 nav {
 	text-align: right;
 }
-
 
 
 
